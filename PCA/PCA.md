@@ -79,9 +79,12 @@ Its data should be correlated with additional evidence to strengthen the overall
 
 In the simulation below, `MemProcFS` was executed manually.
 
-Although MemProcFS is primarily a command-line tool, it was launched this way for demonstration purposes.
+Although MemProcFS is primarily a command-line tool, it was executed via GUI for demonstration purposes.
+
+![](MemprocExec.jpeg)
 
 The PCA artifact indicates that it was executed at:
+
 
 ```text
 13:30 UTC
@@ -92,6 +95,8 @@ This corresponds to:
 ```text
 16:30 Israel time (UTC+3)
 ```
+
+![](MemProcinAppLaunchDic.jpeg)
 
 ## Investigative Value
 
