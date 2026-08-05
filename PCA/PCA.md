@@ -83,6 +83,8 @@ Although MemProcFS is primarily a command-line tool, it was executed via GUI for
 
 ![](MemprocExec.jpeg)
 
+![](AppLaunchDic.jpeg)
+
 The PCA artifact indicates that it was executed at:
 
 
