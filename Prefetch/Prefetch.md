@@ -90,7 +90,7 @@ The resulting file appeared similar to:
 MIMIKATZ.EXE-XXXXXXXX.pf
 ```
 
-<!-- Add screenshot of Mimikatz execution here -->
+![](MimikatzPECreation.jpeg)
 
 The Prefetch file was then analyzed using PECmd:
 
@@ -98,7 +98,7 @@ The Prefetch file was then analyzed using PECmd:
 PECmd.exe -f "C:\Windows\Prefetch\MIMIKATZ.EXE-XXXXXXXX.pf"
 ```
 
-<!-- Add screenshot of PECmd analysis here -->
+![](MimikatzPEAnalysis.jpeg)
 
 From the parsed Prefetch data, an investigator can identify information associated with the execution, including:
 
