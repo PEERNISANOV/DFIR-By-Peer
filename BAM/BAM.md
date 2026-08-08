@@ -68,7 +68,7 @@ BAM may have a short retention window, but during a recent incident, it can prov
 ## Simulation
 
 Below you can see the execution of EZ Registry Explorer along with other executables I recently used on my laptop:
-<br>
+<br><br>
 ![](BAM.png)
 
 ---
