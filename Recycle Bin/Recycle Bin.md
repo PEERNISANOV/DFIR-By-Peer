@@ -217,7 +217,7 @@ Parse the collected `$I` artifact with RBCmd and compare:
     File Size
     Deletion Time
 
-![](recyclebin2.png)
+![](Recyclebin2.png)
 
 with the corresponding `$R` file.
 
